@@ -1,0 +1,20 @@
+Hospital Management System is made in C Programming.
+It has Admin access, Staff(Doctor/Nurse) access and Reception Access.
+
+ADMIN's  ID is "ADMIN" and Password is "PASSWORD".
+
+
+
+Getting Inside the ADMIN page. User can add,remove,edit and display Staff and Reception.
+
+Only after adding atleast one Staff or one Reception, user can get into the Staff and Reception page 
+by using the same username and password previously given during adding new Staff or Reception.
+
+Getting Inside Reception page. User can add,remove, edit and display Patient's basic info.
+
+Whereas getting inside Staff page. User can edit same patients disease,bed number, services and many more. 
+
+Also both receptionist and staff can view Patient's Report.
+
+
+If you want to cancel any input and go back press "0' and enter instead of the real data. 
